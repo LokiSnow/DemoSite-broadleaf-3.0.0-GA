@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF
+END
+applicationContext-datasource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/applicationContext-datasource.xml
+END
+jetty-env.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/jetty-env.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/applicationContext.xml
+END
+applicationContext-rest-api.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/applicationContext-rest-api.xml
+END
+applicationContext-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/applicationContext-servlet.xml
+END
+jetty-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/jetty-web.xml
+END
+applicationContext-filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/applicationContext-filter.xml
+END
+applicationContext-email.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/applicationContext-email.xml
+END
+applicationContext-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/applicationContext-security.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/web.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/log4j.xml
+END

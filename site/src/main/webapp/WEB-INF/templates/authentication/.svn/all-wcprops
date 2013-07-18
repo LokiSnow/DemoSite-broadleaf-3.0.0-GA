@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/authentication
+END
+forgotPasswordSuccess.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/authentication/forgotPasswordSuccess.html
+END
+resetPasswordError.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/authentication/resetPasswordError.html
+END
+forgotPassword.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/authentication/forgotPassword.html
+END
+register.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/authentication/register.html
+END
+resetPassword.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/authentication/resetPassword.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/authentication/login.html
+END

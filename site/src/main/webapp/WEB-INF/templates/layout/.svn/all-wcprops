@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/layout
+END
+fullPageLayout.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/layout/fullPageLayout.html
+END
+fullPageNoNavLayout.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/layout/fullPageNoNavLayout.html
+END
+checkoutLayout.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/layout/checkoutLayout.html
+END
+home.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/layout/home.html
+END
+accountLayout.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/layout/accountLayout.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/runtime-properties
+END
+development-shared.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/runtime-properties/development-shared.properties
+END
+integrationdev-shared.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/runtime-properties/integrationdev-shared.properties
+END
+integrationqa-shared.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/runtime-properties/integrationqa-shared.properties
+END
+production-shared.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/runtime-properties/production-shared.properties
+END
+common-shared.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/runtime-properties/common-shared.properties
+END
+staging-shared.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/runtime-properties/staging-shared.properties
+END

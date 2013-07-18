@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/sql
+END
+load_content_data_i18n.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/sql/load_content_data_i18n.sql
+END
+load_table_sequences.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/sql/load_table_sequences.sql
+END
+load_catalog_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/sql/load_catalog_data.sql
+END
+load_content_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/sql/load_content_data.sql
+END
+load_code_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/sql/load_code_tables.sql
+END
+load_admin_users.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/sql/load_admin_users.sql
+END
+load_catalog_i18n_data_ES.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/sql/load_catalog_i18n_data_ES.sql
+END
+load_catalog_i18n_data_FR.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/sql/load_catalog_i18n_data_FR.sql
+END
+load_content_structure_i18n.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/sql/load_content_structure_i18n.sql
+END
+load_content_structure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/sql/load_content_structure.sql
+END
+import_storage.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/core/src/main/resources/sql/import_storage.sql
+END

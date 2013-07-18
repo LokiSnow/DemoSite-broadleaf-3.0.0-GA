@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/java/com/mycompany/controller/account
+END
+OrderHistoryController.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/java/com/mycompany/controller/account/OrderHistoryController.java
+END
+ManageWishlistController.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/java/com/mycompany/controller/account/ManageWishlistController.java
+END
+UpdateAccountController.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/java/com/mycompany/controller/account/UpdateAccountController.java
+END
+RedirectController.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/java/com/mycompany/controller/account/RedirectController.java
+END
+RegisterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/java/com/mycompany/controller/account/RegisterController.java
+END
+ChangePasswordController.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/java/com/mycompany/controller/account/ChangePasswordController.java
+END
+LoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/java/com/mycompany/controller/account/LoginController.java
+END
+ManageCustomerAddressesController.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/java/com/mycompany/controller/account/ManageCustomerAddressesController.java
+END

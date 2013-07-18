@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/resources/emailTemplates
+END
+orderConfirmation-email.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/resources/emailTemplates/orderConfirmation-email.html
+END
+register-email.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/resources/emailTemplates/register-email.html
+END
+resetPassword-email.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/resources/emailTemplates/resetPassword-email.html
+END

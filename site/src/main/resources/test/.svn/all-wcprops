@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/resources/test
+END
+applicationContext-load-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/resources/test/applicationContext-load-test.xml
+END
+BLC_Basic_Test_Plan.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/resources/test/BLC_Basic_Test_Plan.jmx
+END

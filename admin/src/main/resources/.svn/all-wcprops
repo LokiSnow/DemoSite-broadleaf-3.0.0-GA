@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/admin/src/main/resources
+END
+messages-admin_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/admin/src/main/resources/messages-admin_es.properties
+END
+messages-admin_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/admin/src/main/resources/messages-admin_fr.properties
+END
+messages-admin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/admin/src/main/resources/messages-admin.properties
+END
+bl-override-ehcache-admin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/admin/src/main/resources/bl-override-ehcache-admin.xml
+END

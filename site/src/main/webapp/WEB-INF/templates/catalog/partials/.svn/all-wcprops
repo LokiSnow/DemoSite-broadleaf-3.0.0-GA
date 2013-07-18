@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/catalog/partials
+END
+productOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/catalog/partials/productOptions.html
+END
+review.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/catalog/partials/review.html
+END
+reviewSuccessful.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/catalog/partials/reviewSuccessful.html
+END
+productPagingOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/catalog/partials/productPagingOptions.html
+END
+offers.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/catalog/partials/offers.html
+END
+productSortOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/catalog/partials/productSortOptions.html
+END
+rightHandBannerAds.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/catalog/partials/rightHandBannerAds.html
+END
+facetFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/catalog/partials/facetFilter.html
+END
+productListItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/broadecom/!svn/ver/55/branches/broadecom_yunxin/DemoSite-broadleaf-3.0.0-GA/site/src/main/webapp/WEB-INF/templates/catalog/partials/productListItem.html
+END
